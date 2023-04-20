@@ -2,6 +2,8 @@
 <br>
 <br>
 
+<img src="https://github.com/RafaelCampos23/Aplica--o---iPhone/blob/master/img/iPhone%20-%20Aplica%C3%A7%C3%A3o.jpg?raw=true" alt="Imagem-projeto"></img>
+    
 <h2><b>Sobre o projeto:</b></h2>
 <p>Projeto desenvolvido a partir das lives de apresentação do curso de programação do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, o projeto conta com parâmetros de responsividade.</p>
 <a>Missão #VoceProgramador</a>
@@ -15,8 +17,3 @@
     
 <br>
 <br>
-<br>
-
-<h2><b>Imagem do desafio finalizado::</b></h2>
-<img src="https://github.com/RafaelCampos23/Aplica--o---iPhone/blob/master/img/iPhone%20-%20Aplica%C3%A7%C3%A3o.jpg?raw=true" alt="Imagem-projeto"></img>
-    
