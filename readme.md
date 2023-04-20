@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[We are ONLINE, try Now](https://rafaelcampos23.github.io/Aplica--o---iPhone/) :earth_americas:<br>
+[Estamos ONLINE, experimente agora](https://rafaelcampos23.github.io/Aplica--o---iPhone/) :earth_americas:<br>
 
 <img src="https://github.com/RafaelCampos23/Aplica--o---iPhone/blob/master/img/iPhone%20-%20Aplica%C3%A7%C3%A3o.jpg?raw=true" alt="Imagem-projeto"></img>
     
