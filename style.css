@@ -140,6 +140,7 @@ li {
 
     .caixa-azul {
         display: block;
+        height: 100vh;
     }
 
     .titulo-iphone{
@@ -189,10 +190,10 @@ li {
     }
 
     .iphone {
-        width: 210px;
+        width: 170px;
         position: relative;
-        left: 100px;
-        bottom: 290px;
+        left: 140px;
+        bottom: 330px;
     }
     
 }
